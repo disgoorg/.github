@@ -1,6 +1,6 @@
-# Welcome to DisGoOrg
+# Welcome to DisGo
 
-<img align="right" src="/disgo.png" width=192 alt="discord gopher">
+<img align="right" src="/disgo.png" width=192 alt="disgo gopher">
 
 DisGoOrg provides a full set of libraries to create your own discord bot in go with music & co.
 
@@ -17,7 +17,8 @@ This organization also features some other smaller libraries used in various of 
 * [log](https://github.com/disgoorg/log) a logging interface which enables you to plug your own logger in
 * [validate](https://github.com/disgoorg/validate) a work in progress library to make validation of structs less painful
 
+---
 
-## Discord Server
+### Discord Server
 
 We have a public discord server you are welcome to join [here](https://discord.gg/9tKpqXjYVC)
