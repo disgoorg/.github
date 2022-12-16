@@ -1,5 +1,7 @@
 # Welcome to DisGoOrg
 
+<img align="right" src="/disgo.png" width=192 alt="discord gopher">
+
 DisGoOrg provides a full set of libraries to create your own discord bot in go with music & co.
 
 This includes the following featured libraries:
