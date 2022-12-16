@@ -7,7 +7,7 @@ DisGo provides a full set of libraries to create your own discord bot.
 This includes the following featured libraries:
 * [DisGo](https://github.com/disgoorg/disgo) - your discord library in go
 * [DisGoLink](https://github.com/disgoorg/disgolink) - your [Lavalink]() Client specifically made for [DisGo](https://github.com/disgoorg/disgo)
-* [Audio](https://github.com/disgoorg/audio) - let's you process various audio formats into opus frames ready to send to discord
+* [Audio](https://github.com/disgoorg/audio) - lets you process various audio formats into opus frames ready to send to discord
 * [DisLog](https://github.com/disgoorg/dislog) - a [Logrus](https://github.com/sirupsen/logrus) hook to send your logs into your discord server via webhooks
 ---
 
