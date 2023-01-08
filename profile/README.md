@@ -9,6 +9,7 @@ This includes the following featured libraries:
 * [DisGoLink](https://github.com/disgoorg/disgolink) - your [Lavalink]() Client specifically made for [DisGo](https://github.com/disgoorg/disgo)
 * [Audio](https://github.com/disgoorg/audio) - lets you process various audio formats into opus frames ready to send to discord
 * [DisLog](https://github.com/disgoorg/dislog) - a [Logrus](https://github.com/sirupsen/logrus) hook to send your logs into your discord server via webhooks
+* [Paginator](https://github.com/disgoorg/paginator) - a library to help you display lots of data in pages using buttons
 ---
 
 This organization also features some other smaller libraries used in our repositories such as:
